@@ -1,0 +1,97 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    text-decoration:none;
+
+}
+
+.nav{
+    height: 80px;
+    width:100%;
+    position: absolute;
+    
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top:0px;
+}
+.map{
+    position: absolute;
+    top: 0px;
+    left: 81px;
+}
+.content{
+    position: absolute;
+    top: 81px;
+    width: 100%;
+
+}
+.tags{
+    position:fixed;
+    width: 200px;
+    left: 0px;
+    top:0px;
+    border: 0px;
+    height: 200px;
+}
+
+.posts{
+    position: absolute;
+    width: 800px;
+    top: 0px;
+    left: 201px;
+    
+}
+.setting{
+    position: absolute;
+    height: 600px;
+
+}
+.image0{
+    max-height: 200px;
+    min-height: 200px;
+    max-width: 200px;
+    min-width: 200px;
+    position: absolute;
+    overflow: hidden;
+}
+.image1{
+    max-height: 200px;
+    min-height: 200px;
+    max-width: 200px;
+    min-width: 200px;
+    position: absolute;
+    left: 201px;
+    overflow: hidden;
+}
+.image2{
+    max-height: 200px;
+    min-height: 200px;
+    max-width: 200px;
+    min-width: 200px;
+    position: absolute;
+    left: 401px;
+    overflow: hidden;
+}
+.image3{
+    max-height: 200px;
+    min-height: 200px;
+    max-width: 200px;
+    min-width: 200px;
+    position: relative;
+    left: 601px;
+    overflow: hidden;
+}
+.inner{
+    max-height: 200px;
+    min-height: 200px;
+    max-width: 200px;
+    min-width: 200px;
+    position: relative;
+    overflow: hidden;
+    background-clip: content-box;
+    background-origin: content-box;
+}
